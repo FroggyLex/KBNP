@@ -1,4 +1,4 @@
-# KBNP : Kinda Bypass Nexus Premium
+# KBNP
 
 # WHAT IS IT?
 
